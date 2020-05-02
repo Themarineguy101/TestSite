@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -11,13 +10,9 @@ p    {color: red; text-align:center}
 <body>
 
 <h1>Erik Garrow Projects</h1>
-    <p></p>
 <h2>Java Calculator</h2>
-    <p></p>
 <h2>Video Game Factions</h2>
-    <p></p>
 <h2>Wizard Wars</h2>
-    <p></p>
 
 </body>
 </html>
