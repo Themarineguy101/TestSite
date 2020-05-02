@@ -16,7 +16,7 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
     }
 
     h1 {
-        color: blue;
+        color: blanchedalmond;
         text-align: center
     }
 
