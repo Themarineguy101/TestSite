@@ -4,10 +4,32 @@
     <h1>Project Site</h1>
 </header>
 <style>
-body {background-color: powderblue; text-align:center}
-h1   {color: blue; text-align:center}
-h2   {text-align:center}
-p    {color: red; text-align:center}
+body {background-color:black;
+background-image:
+radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+        text-align: center
+    }
+
+    h1 {
+        color: blue;
+        text-align: center
+    }
+
+    h2 {
+        color: deepskyblue;
+        text-align: center
+    }
+
+    p {
+        color: red;
+        text-align: center
+    }
+
 </style>
     <!--Png Functions better than GIF as it allows for more colors and offers better compression ratios-->
 <body>
