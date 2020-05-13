@@ -35,10 +35,10 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
 <body>
     <h1>School Projects</h1>
     <h2>Website</h2>
-    <p> This was a project done for class where we made websites using HTML. Link to the code in github is <a href ="https://github.com/Themarineguy101/TestSite/tree/master/Starcraft%20series%20website%20-%20Copy">here</a></p>
+    <p> This was a project done for class where we made websites using HTML. <a href ="https://github.com/Themarineguy101/TestSite/tree/master/Starcraft%20series%20website%20-%20Copy">Link to the code in github is here</a></p>
     <img src="Website image.PNG" alt="image of functioning Website" class="responsive">
     <h2>Card Game</h2>
-    <p> This was a project done for class where we made, using netbeans to make a game where one guesses if the next card would be a higher or lower value. Link to the code in github is <a href ="https://github.com/Themarineguy101/TestSite/tree/master/CardGameTesting">here</a></p>
+    <p> This was a project done for class where we made, using netbeans to make a game where one guesses if the next card would be a higher or lower value. <a href ="https://github.com/Themarineguy101/TestSite/tree/master/CardGameTesting">Link to the code in github is here</a></p>
     <img src="NetbeansCardGame.png" alt="image of functioning game" class="responsive">
 <h1>Projects</h1>
 <h2>Java Calculator</h2>
