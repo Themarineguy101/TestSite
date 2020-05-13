@@ -29,11 +29,14 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
         color: red;
         text-align: center
     }
-
+.responsive { width: 100%; height: auto;}
 </style>
     <!--Png Functions better than GIF as it allows for more colors and offers better compression ratios-->
 <body>
-
+    <h1>School Projects</h1>
+    <h2>Card Game</h2>
+    <p> This was a project done for class where we made, using netbeans a game where one guesses if the next card would be a higher or lower value.</p>
+    <img src="NetbeansCardGame.png" alt="image of product in action" class="responsive">
 <h1>Projects</h1>
 <h2>Java Calculator</h2>
 <h2>Video Game Factions</h2>
