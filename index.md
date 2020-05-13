@@ -35,7 +35,7 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
 <body>
     <h1>School Projects</h1>
     <h2>Card Game</h2>
-    <p> This was a project done for class where we made, using netbeans to make a game where one guesses if the next card would be a higher or lower value.</p>
+    <p> This was a project done for class where we made, using netbeans to make a game where one guesses if the next card would be a higher or lower value. Link to the code in github is <a href ="https://github.com/Themarineguy101/TestSite/tree/master/CardGameTesting">here</a></p>
     <img src="NetbeansCardGame.png" alt="image of functioning game" class="responsive">
 <h1>Projects</h1>
 <h2>Java Calculator</h2>
