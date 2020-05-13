@@ -29,7 +29,7 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
         color: red;
         text-align: center
     }
-.responsive { width: 100%; height: auto; max-width: 100px}
+.responsive { width: 100%; height: auto; max-width: 50px}
 </style>
     <!--Png Functions better than GIF as it allows for more colors and offers better compression ratios-->
 <body>
