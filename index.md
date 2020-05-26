@@ -42,6 +42,8 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
     <img src="NetbeansCardGame.png" alt="image of functioning game" class="responsive">
 <h1>Projects</h1>
 <h2>Java Calculator</h2>
+    <p>This is a calculator I developed using java, capable of a decent amount of operations, soch as log, square root, squared, the basic operations, Cosh, and some other operations.<a href ="https://github.com/Themarineguy101/TestSite/tree/master/Java_Project_Scientific_Calculator">Link to the code in github is here</a></p>
+    <img src="JavaCalc.png" alt="image of caculator I made using java" class="responsive">
 <h2>Video Game Factions</h2>
 <h2>Wizard Wars</h2>
 
