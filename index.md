@@ -45,6 +45,8 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
     <p>This is a calculator I developed using java, capable of a decent amount of operations, soch as log, square root, squared, the basic operations, Cosh, and some other operations.<a href ="https://github.com/Themarineguy101/TestSite/tree/master/Java_Project_Scientific_Calculator">Link to the code in github is here</a></p>
     <img src="JavaCalc.PNG" alt="image of caculator I made using java" class="responsive">
 <h2>Video Game Factions</h2>
+    <p>This is a database I made which holdes three lonked tables that hold game, mod, and faction data, developed through Microsoft SQL Server Management Studio<a href ="https://github.com/Themarineguy101/TestSite/tree/master/Table_Test">Link to the code in github is here</a></p>
+    <img src="Small Snippit of Table.PNG" alt="image of a small part of one of the tables int the project" class="responsive">
 <h2>Wizard Wars</h2>
 
 </body>
