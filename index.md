@@ -49,6 +49,6 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
     <img src="Small Snippit of Table.PNG" alt="image of a small part of one of the tables int the project" class="responsive">
 <h2>Wizard Wars</h2>
 <p>This is a top down shooting game I made using Unity and C#, made mainly for local 2 player vs, and a single player challenge mode. Besides the music, sound effects, and the base movement script for the characters I largely done it through research and experimentation, making a lightbased shooter with a variety of power-ups revolving around the use of light to both find and hide. <a href ="https://github.com/Themarineguy101/TestSite/tree/master/Script">Link to the C+ files for the game</a>. <a href ="https://github.com/Themarineguy101/TestSite/tree/master/WizardDuelGame.zip">Here is a link to the compressed game files that you can download</a>, then extract to play on the computer.</p>
-    <img src="Small Snippit of Table.PNG" alt="image of one of the two vs arenas I made" class="responsive">
+    <img src="Game.PNG" alt="image of one of the two vs arenas I made" class="responsive">
 </body>
 </html>
