@@ -55,7 +55,7 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
     <p><a href =https://github.com/Themarineguy101/TestSite/blob/master/Computer%20Programming%20Internship%20Project%20Presentation.pptx>This link will bring you to the powerpoint presentation that covers thi page and it's contents</a></p>
     <h2>Contact Information</h2>
     <p>My Email address is erikgarrow@hotmail.com</p> 
-    <a href =https://github.com/Themarineguy101>This link will bring you to my Github account</a></p>
-    <a href =https://www.linkedin.com/in/erik-garrow-942931187/>This link will bring you to my LinkedIn account</a></p>
+    <p><a href =https://github.com/Themarineguy101>This link will bring you to my Github account</a></p>
+    <p><a href =https://www.linkedin.com/in/erik-garrow-942931187/>This link will bring you to my LinkedIn account</a></p>
 </body>
 </html>
